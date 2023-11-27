@@ -13,7 +13,7 @@ body {
     background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    padding: 20px 170px 120px 170px;
+    padding: 20px 180px 120px 180px;
     gap: 100px;
 }
 
@@ -69,7 +69,7 @@ body {
     color: #F9FAF8;
 }
 .header .content .text .subtext {
-    font-size: 18px;
+    font-size: 17px;
     color: #c6cce2;
 }
 .header .content .text button {
@@ -134,8 +134,34 @@ body {
 }
 
 .action {
+    margin: 90px 190px;
+    background-color: #3382F6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    padding: 40px 120px;
 
 }
+.action .content .title {
+    font-weight: 500;
+    color: #F9FAF8;
+    font-size: 22px;
+}
+.action .content .text {
+    font-size: 17px;
+    color: #c6cce2;
+}
+.action button {
+    font-size: 16px;
+    font-weight: 500;
+    border: 2px solid #F9FAF8;;
+    border-radius: 8px;
+    color: #F9FAF8;
+    background-color: #3382F6;
+    padding: 5px 30px;
+}
+
 
 .footer {
 
