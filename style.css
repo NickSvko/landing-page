@@ -140,7 +140,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: end;
-    padding: 40px 120px;
+    padding: 50px 120px;
 
 }
 .action .content .title {
@@ -164,5 +164,9 @@ body {
 
 
 .footer {
-
+    background-color: #1F2937;
+    font-size: 17px;
+    color: #c6cce2;
+    text-align: center;
+    padding: 40px 0;
 }
