@@ -44,20 +44,15 @@ body {
     color: #c6cce2;
 }
 
-
 .header .content {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: end;
+    align-items: center;
     gap: 50px;
 }
 .header .content .image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 500px;
-    height: 220px;
     background-color: #767781;
     color: #E5E7EB;
 }
@@ -84,6 +79,7 @@ body {
     font-size: 16px;
     border: none;
     border-radius: 8px;
+    padding: 10px;
 }
 
 
