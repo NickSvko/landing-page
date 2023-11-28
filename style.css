@@ -139,7 +139,8 @@ body {
 .quote .author {
     text-align: end;
     font-size: 22px;
-    font-weight: bolder;
+    font-weight: 600;
+    font-style: italic;
     padding-right: 40px;
 }
 
