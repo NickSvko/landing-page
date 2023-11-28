@@ -106,14 +106,23 @@ body {
     text-align: center;
 }
 .information .content .element .image {
-    border: 4px solid #3382F6;
+    /* border: 4px solid #3382F6; */
+    border: none;
     height: 150px;
+    width: 160px;
     border-radius: 16px;
     margin-bottom: 10px;
+
 }
 .information .content .element .text {
     font-size: 18px;
     color: #6b6b6f;
+}
+
+.information .content .element .text span {
+    font-style: italic;
+    display: block;
+    color: #3382F6;
 }
 
 
