@@ -1,4 +1,3 @@
-
 body {
     box-sizing: border-box;
     display: flex;
@@ -6,6 +5,7 @@ body {
     justify-content: space-between;
     font-family: Helvetica, sans-serif;
     box-sizing: border-box;
+    margin: 0;
 }
 
 
@@ -106,7 +106,6 @@ body {
     text-align: center;
 }
 .information .content .element .image {
-    /* border: 4px solid #3382F6; */
     border: none;
     height: 150px;
     width: 160px;
